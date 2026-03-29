@@ -75,7 +75,7 @@ I'm a passionate developer focused on **web development**, **mobile apps**, **ne
 | **Coming Soon** | Network monitoring tool | Python, Wireshark |
 
 ## 📫 Connect With Me
-- **Email:** shanfuyahvalentine@gmail.com
+- **Email:** shanguyahvalentine@gmail.com
 - **GitHub:** [@shanguyah](https://github.com/shanguyah)
 
 ## 📊 GitHub Stats
