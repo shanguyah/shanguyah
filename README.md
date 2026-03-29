@@ -18,9 +18,7 @@ I'm a [Frontend/Backend/Full-stack] developer passionate about building [mention
 | [Project 3](#) | Brief description | Django, PostgreSQL |
 
 ## 📫 Connect With Me
-- [LinkedIn](your-linkedin-url)
-- [Email](your-email@example.com)
-- [Portfolio](your-portfolio-url)
+- [Email](shanguyahvalentine@gmail.com)
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shanguyah&show_icons=true&theme=dark)
