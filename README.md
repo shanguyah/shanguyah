@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Valentine Shyanguya Ong'ayo]
+# 👋 Hi, I'm Valentine Shyanguya Ong'ayo
 
 ## 🚀 About Me
 I'm a [Frontend/Backend/Full-stack] developer passionate about building [mention what you love building]. Currently seeking [internship/junior/entry-level] opportunities.
