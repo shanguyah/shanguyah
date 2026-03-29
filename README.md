@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm [Valentine Shyanguya Ong'ayo]
 
-<!--
-**shanguyah/shanguyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a [Frontend/Backend/Full-stack] developer passionate about building [mention what you love building]. Currently seeking [internship/junior/entry-level] opportunities.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, TypeScript, [add yours]
+- **Frontend:** React, HTML5, CSS3, Tailwind
+- **Backend:** Node.js, Express, Django
+- **Databases:** PostgreSQL, MongoDB
+- **Tools:** Git, Docker, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Project 1](#) | Brief description | Python, React |
+| [Project 2](#) | Brief description | JavaScript, Node |
+| [Project 3](#) | Brief description | Django, PostgreSQL |
+
+## 📫 Connect With Me
+- [LinkedIn](your-linkedin-url)
+- [Email](your-email@example.com)
+- [Portfolio](your-portfolio-url)
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shanguyah&show_icons=true&theme=dark)
