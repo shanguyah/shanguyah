@@ -1,76 +1,81 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=200&section=header&text=Valentine%20Ong'ayo&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Valentine%20Ong'ayo&fontSize=65&fontColor=e94560&fontAlignY=38" width="100%" />
 
-  <h3> 💻 Full-Stack Developer | Network Security Enthusiast | Cloud Explorer </h3>
+  <a href="https://github.com/shanguyah">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=a8b2d8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Network+Security+Specialist;M-Pesa+Integration+Expert;Building+Laced+%26+Lit+🚀" alt="Typing SVG" />
+  </a>
 
   <p align="center">
     <a href="https://github.com/shanguyah">
-      <img src="https://img.shields.io/github/followers/shanguyah?label=Followers&style=for-the-badge&color=222&logo=github" />
+      <img src="https://img.shields.io/github/followers/shanguyah?label=Followers&style=for-the-badge&color=e94560&logo=github" />
     </a>
     <a href="mailto:shanguyahvalentine@gmail.com">
-      <img src="https://img.shields.io/badge/Contact%20Me-Email-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Contact%20Me-Email-16213e?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
 </div>
 
 ---
 
-### 📖 About Me
-I'm a passionate developer building secure, scalable solutions. With a background in **Network Engineering** and **Full-Stack Development**, I bridge the gap between robust infrastructure and premium user experiences. 
+### 🚀 About Me
+I am a dedicated developer focused on building secure, scalable web and mobile solutions. With expertise ranging from **Full-Stack Development** to **Advanced Networking**, I enjoy solving complex problems and optimizing digital infrastructure.
 
-* 🔭 Currently working on: **Laced & Lit (E-commerce)**
-* 🌱 Learning: **Go & Flutter**
-* ⚡ Fun fact: I manage a complex network of 14 daisy-chained routers!
+* 🛠️ **Current Project:** Overhauling [Laced & Lit](https://github.com/shanguyah) (Premium E-commerce).
+* 🛡️ **Specialty:** Mobile hardware security (Samsung Knox) and Network Topology.
+* 📍 **Based In:** Kenya.
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 🌐 Frontend & Design
+#### 🌐 Web & Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma" />
 </p>
 
 #### ⚙️ Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,laravel,spring,postgres,mysql,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,php,laravel,java,mysql,postgres,mongodb,firebase" />
 </p>
 
 #### ☁️ DevOps & Networking
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,nginx,wireshark" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,nginx,bash,wireshark" />
 </p>
 
-#### 📱 Mobile & Security
+#### 📱 Mobile & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java" />
-  <img src="https://img.shields.io/badge/Security-Knox%20Guard-red?style=flat-square&logo=samsung" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,vscode,postman,git,github,githubactions,trello" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
 
-| Project | Status | Tech Stack |
+| Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Laced & Lit** | 🚀 Active | `Node.js` `M-Pesa API` `Tailwind` |
-| **Asset Tracker** | 🛡️ Internal | `Python` `Cloud Computing` |
-| **Secure Pay Hub** | 🛠️ Building | `MERN` `JWT` `Docker` |
+| **Laced & Lit** | Premium Streetwear E-commerce | `Node.js` `React` `M-Pesa API` |
+| **SecurePay Hub** | MERN-based payment gateway | `MongoDB` `Express` `JWT` |
+| **Asset Tracker** | Fraud prevention & asset tracking | `Python` `Cloud Computing` |
+| **NetGuard** | Network monitoring & security tool | `Python` `Wireshark` `Linux` |
 
 ---
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanguyah&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanguyah&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shanguyah&show_icons=true&theme=tokyonight&hide_border=true&title_color=e94560&icon_color=00d2ff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanguyah&layout=compact&theme=tokyonight&hide_border=true&title_color=e94560" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanguyah&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanguyah&theme=tokyonight&hide_border=true&stroke=e94560&ring=00d2ff&fire=e94560" width="100%" />
 </p>
 
 ---
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=20&section=footer" width="100%" />
 </div>
