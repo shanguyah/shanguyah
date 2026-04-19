@@ -1,4 +1,8 @@
 <div align="center">
+  <p align="right">
+    <img src="https://komarev.com/ghpvc/?username=shanguyah&color=e94560&style=flat-square&label=VISITORS" />
+  </p>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Valentine%20Ong'ayo&fontSize=65&fontColor=e94560&fontAlignY=38" width="100%" />
 
   <a href="https://github.com/shanguyah">
@@ -14,6 +18,13 @@
     </a>
   </p>
 </div>
+
+---
+
+### 🏆 My GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shanguyah&theme=tokyonight&no-bg=true&margin-w=4" />
+</p>
 
 ---
 
@@ -57,7 +68,13 @@ I am a dedicated developer focused on building secure, scalable web and mobile s
 | **Laced & Lit** | Premium Streetwear E-commerce | `Node.js` `React` `M-Pesa API` |
 | **SecurePay Hub** | MERN-based payment gateway | `MongoDB` `Express` `JWT` |
 | **Asset Tracker** | Fraud prevention & asset tracking | `Python` `Cloud Computing` |
-| **NetGuard** | Network monitoring & security tool | `Python` `Wireshark` `Linux` |
+
+---
+
+### 📉 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanguyah&theme=tokyonight&bg_color=1a1a2e&hide_border=true&color=e94560" width="100%" />
+</p>
 
 ---
 
