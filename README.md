@@ -1,82 +1,76 @@
-# 👋 Hi, I'm Valentine Shyanguya Ong'ayo
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=200&section=header&text=Valentine%20Ong'ayo&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-## 🚀 About Me
-I'm a passionate developer focused on **web development**, **mobile apps**, **networking**, **web hosting**, **data security**, and **cloud engineering**. I love building secure, scalable solutions that solve real problems. Currently seeking opportunities where I can grow and contribute.
+  <h3> 💻 Full-Stack Developer | Network Security Enthusiast | Cloud Explorer </h3>
 
-## 🛠️ Tech Stack
+  <p align="center">
+    <a href="https://github.com/shanguyah">
+      <img src="https://img.shields.io/github/followers/shanguyah?label=Followers&style=for-the-badge&color=222&logo=github" />
+    </a>
+    <a href="mailto:shanguyahvalentine@gmail.com">
+      <img src="https://img.shields.io/badge/Contact%20Me-Email-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+</div>
 
-### Languages
-- **JavaScript** / TypeScript
-- **Python**
-- **Java** (for Android)
-- **HTML5** / CSS3
-- **SQL** (PostgreSQL, MySQL)
-- **Bash** / Shell scripting
-- **PHP**
-- **C#** / .NET
-- **Go** (learning)
+---
 
-### Frontend
-- React.js / Next.js
-- Vue.js
-- Tailwind CSS / Bootstrap
-- HTML5 / CSS3
+### 📖 About Me
+I'm a passionate developer building secure, scalable solutions. With a background in **Network Engineering** and **Full-Stack Development**, I bridge the gap between robust infrastructure and premium user experiences. 
 
-### Backend
-- Node.js / Express
-- Django / Flask (Python)
-- Laravel (PHP)
-- Spring Boot (Java)
+* 🔭 Currently working on: **Laced & Lit (E-commerce)**
+* 🌱 Learning: **Go & Flutter**
+* ⚡ Fun fact: I manage a complex network of 14 daisy-chained routers!
 
-### Mobile Development
-- **Android Studio** (Java/Kotlin)
-- React Native
-- Flutter (learning)
+---
 
-### Databases
-- PostgreSQL
-- MySQL
-- MongoDB
-- Firebase
+### 🛠️ Tech Stack
 
-### Cloud & DevOps
-- AWS (EC2, S3, Lambda)
-- Google Cloud Platform
-- Docker / Kubernetes
-- Linux server administration
-- Nginx / Apache
+#### 🌐 Frontend & Design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,figma" />
+</p>
 
-### Networking & Security
-- TCP/IP, DNS, HTTP/HTTPS
-- Firewall configuration
-- SSL/TLS certificates
-- Penetration testing basics
-- VPN setup
+#### ⚙️ Backend & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,laravel,spring,postgres,mysql,mongodb,firebase" />
+</p>
 
-### Tools & IDEs
-- **Android Studio**
-- **VS Code** / VS Codium
-- **IntelliJ IDEA**
-- Git / GitHub
-- Postman / Insomnia
-- **Docker Desktop**
-- **VirtualBox** / VMware
-- Figma (UI/UX design)
-- Jira / Trello
-- **cURL** / Wget
-- **Wireshark** (network analysis)
+#### ☁️ DevOps & Networking
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,nginx,wireshark" />
+</p>
 
-## 📌 Featured Projects
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Coming Soon** | Secure web application | MERN + JWT |
-| **Coming Soon** | Android mobile app | Java, Android Studio |
-| **Coming Soon** | Cloud-hosted API | Node.js, AWS |
-| **Coming Soon** | Network monitoring tool | Python, Wireshark |
+#### 📱 Mobile & Security
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java" />
+  <img src="https://img.shields.io/badge/Security-Knox%20Guard-red?style=flat-square&logo=samsung" />
+</p>
 
-## 📫 Connect With Me
-- **Email:** shanguyahvalentine@gmail.com
-- **GitHub:** [@shanguyah](https://github.com/shanguyah)
+---
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shanguyah&show_icons=true&theme=dark)
+### 📌 Featured Projects
+
+| Project | Status | Tech Stack |
+| :--- | :--- | :--- |
+| **Laced & Lit** | 🚀 Active | `Node.js` `M-Pesa API` `Tailwind` |
+| **Asset Tracker** | 🛡️ Internal | `Python` `Cloud Computing` |
+| **Secure Pay Hub** | 🛠️ Building | `MERN` `JWT` `Docker` |
+
+---
+
+### 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shanguyah&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanguyah&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanguyah&theme=tokyonight&hide_border=true" width="100%" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
