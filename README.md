@@ -4,7 +4,7 @@
   </a>
 
   <a href="https://github.com/shanguyah">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=a8b2d8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Network+Security+Specialist;M-Pesa+Automation+Expert;Founder+of+Laced+%26+Lit+🛍️;Samsung+Knox+%26+MDM+Researcher;Optimizing+Digital+Infrastructure+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=a8b2d8&center=true&vCenter=true&width=500&lines=Full+Stack+Architect;Network+Infrastructure+Lead;M-Pesa+FinTech+Innovator;Founder+@+Laced+%26+Lit+🛍️;CRM+%26+Customer+Lifecycle+Expert;Scaling+Digital+Commerce+🚀" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -19,12 +19,13 @@
 
 ---
 
-### 🚀 About Me
-I am a dedicated developer focused on building secure, scalable web and mobile solutions. I specialize in bridging the gap between complex network infrastructure and seamless e-commerce experiences.
+### 💼 Product Ecosystem
+I specialize in building end-to-end digital experiences where high-performance code meets data-driven customer retention. By integrating automated payment systems with advanced CRM logic, I turn one-time shoppers into lifelong brand advocates.
 
-* 🛠️ **Latest Launch:** Successfully deployed **[Laced & Lit](https://github.com/shanguyah)** (Premium E-commerce).
-* ⚙️ **Specialty:** Fullstack Web Development & Advanced Networking.
-* 🛡️ **Focus:** Mobile hardware security, M-Pesa STK Push integration, and secure payment logic.
+* 🏢 **flagship:** **[Laced & Lit](https://github.com/shanguyah)** — A premium streetwear platform built for scale.
+* 📈 **Strategy:** Implementation of automated CRM workflows to personalize user journeys.
+* ⚙️ **Specialty:** Fullstack Web Development & Enterprise Networking.
+* 🛡️ **Focus:** FinTech security, M-Pesa STK automation, and secure database management.
 
 ---
 
@@ -75,9 +76,9 @@ I am a dedicated developer focused on building secure, scalable web and mobile s
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Laced & Lit** | Live Premium Streetwear Store with M-Pesa Checkout | `Node.js` `React` `Tailwind` |
-| **SecurePay Hub** | MERN-based payment gateway with automated STK push | `MongoDB` `Express` `JWT` |
-| **Network Guard** | Research into Samsung A06 Knox Guard and MDM security | `Linux` `Bash` `Wireshark` |
+| **Laced & Lit** | Live Premium Store with CRM-driven customer flows | `Node.js` `React` `Tailwind` |
+| **SecurePay Hub** | M-Pesa automation with real-time transaction tracking | `MongoDB` `Express` `JWT` |
+| **Network Guard** | Hardened infrastructure for secure data processing | `Linux` `Bash` `Wireshark` |
 
 ---
 
