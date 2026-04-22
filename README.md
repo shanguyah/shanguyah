@@ -100,3 +100,8 @@ I specialize in building end-to-end digital experiences where high-performance c
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=20&section=footer" width="100%" />
   </a>
 </div>
+<p align="center">
+  <a href="https://github.com/shanguyah/shanguyah/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/Design%20License-Proprietary-e94560?style=flat-square&logo=gitbook&logoColor=white" alt="License" />
+  </a>
+</p>
