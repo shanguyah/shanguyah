@@ -19,15 +19,13 @@
     <a href="mailto:shanguyahvalentine@gmail.com">
       <img src="https://img.shields.io/badge/Contact%20Me-Email-16213e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0f1a" />
     </a>
-    <a href="https://github.com/shanguyah">
-      <img src="https://komarev.com/ghpvc/?username=shanguyah&style=for-the-badge&color=0f3460&label=PROFILE+VIEWS" />
-    </a>
   </p>
 </div>
 
 ---
-
+<a href="https://github.com/shanguyah">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanguyah&layout=pie&theme=tokyonight&hide_border=true&title_color=e94560&langs_count=6" width="240" />
+</a>
 
 ### 💼 Product Ecosystem
 
