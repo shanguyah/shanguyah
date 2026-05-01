@@ -66,31 +66,6 @@ I specialize in building **end-to-end digital experiences** where high-performan
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/shanguyah">
-    <img src="https://github-readme-stats.vercel.app/api?username=shanguyah&show_icons=true&theme=tokyonight&hide_border=true&title_color=e94560&icon_color=00d2ff&text_color=a8b2d8&bg_color=0d0f1a&count_private=true&include_all_commits=true&rank_icon=github" width="49%" />
-  </a>
-  <a href="https://github.com/shanguyah">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanguyah&layout=compact&theme=tokyonight&hide_border=true&title_color=e94560&text_color=a8b2d8&bg_color=0d0f1a&langs_count=8" width="49%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/shanguyah">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanguyah&theme=tokyonight&hide_border=true&stroke=e94560&ring=00d2ff&fire=e94560&currStreakLabel=a8b2d8&background=0d0f1a&sideLabels=a8b2d8&dates=6272a4" width="100%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/shanguyah">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanguyah&theme=tokyonight" width="100%" />
-  </a>
-</p>
-
----
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
