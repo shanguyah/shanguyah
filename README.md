@@ -76,9 +76,9 @@ I specialize in building **end-to-end digital experiences** where high-performan
   <a href="https://github.com/shanguyah">
     <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,nginx,bash,wireshark&perline=9" />
   </a>
-  
+</p>
 
-</### 📉 Contribution Activity
+### 📉 Contribution Activity
 
 <p align="center">
   <a href="https://github.com/shanguyah">
