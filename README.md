@@ -49,20 +49,11 @@ I specialize in building **end-to-end digital experiences** where high-performan
 - ⚙️ **Specialty:** Fullstack Web Development & Enterprise Networking.
 - 🛡️ **Focus:** FinTech security, M-Pesa STK automation, secure database management.
 - 🌐 **Network:** Cisco-grade infrastructure, packet analysis, hardened servers.
-- 🌍 **Portfolio:** [valongayo.lovable.app](https://valongayo.lovable.app)
 
 <br clear="right"/>
 
 ---
-### 📉 Contribution Activity
 
-<p align="center">
-  <a href="https://github.com/shanguyah">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanguyah&theme=tokyo-night&bg_color=0d0f1a&hide_border=true&color=e94560&line=00d2ff&point=e94560&area=true&area_color=e9456022" width="100%" />
-  </a>
-</p>
-
----
 
 ### 🛠️ Tech Stack
 
@@ -84,6 +75,14 @@ I specialize in building **end-to-end digital experiences** where high-performan
 <p align="left">
   <a href="https://github.com/shanguyah">
     <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,nginx,bash,wireshark&perline=9" />
+  </a>
+  
+
+</### 📉 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/shanguyah">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanguyah&theme=tokyo-night&bg_color=0d0f1a&hide_border=true&color=e94560&line=00d2ff&point=e94560&area=true&area_color=e9456022" width="100%" />
   </a>
 </p>
 
