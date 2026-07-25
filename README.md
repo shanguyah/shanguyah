@@ -27,11 +27,16 @@
 
 ---
 
-### 📉 Contribution Activity
+### 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/shanguyah">
+    <img src="https://streak-stats.demolab.com/?user=shanguyah&theme=tokyonight&hide_border=true&stroke=e94560&ring=00d2ff&fire=e94560&currStreakLabel=a8b2d8&background=0d0f1a&sideLabels=a8b2d8&dates=6272a4" width="100%" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/shanguyah">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanguyah&theme=tokyo-night&bg_color=0d0f1a&hide_border=true&color=e94560&line=00d2ff&point=e94560&area=true&area_color=e9456022" width="100%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanguyah&theme=tokyonight" width="100%" />
   </a>
 </p>
 
@@ -47,6 +52,15 @@ I specialize in building **end-to-end digital experiences** where high-performan
 - 🌍 **Portfolio:** [valongayo.lovable.app](https://valongayo.lovable.app)
 
 <br clear="right"/>
+
+---
+### 📉 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/shanguyah">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanguyah&theme=tokyo-night&bg_color=0d0f1a&hide_border=true&color=e94560&line=00d2ff&point=e94560&area=true&area_color=e9456022" width="100%" />
+  </a>
+</p>
 
 ---
 
@@ -75,20 +89,7 @@ I specialize in building **end-to-end digital experiences** where high-performan
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/shanguyah">
-    <img src="https://streak-stats.demolab.com/?user=shanguyah&theme=tokyonight&hide_border=true&stroke=e94560&ring=00d2ff&fire=e94560&currStreakLabel=a8b2d8&background=0d0f1a&sideLabels=a8b2d8&dates=6272a4" width="100%" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/shanguyah">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanguyah&theme=tokyonight" width="100%" />
-  </a>
-</p>
-
----
 
 
 ### 📌 Featured Projects
