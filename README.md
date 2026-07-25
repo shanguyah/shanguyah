@@ -19,20 +19,21 @@
     <a href="mailto:shanguyahvalentine@gmail.com">
       <img src="https://img.shields.io/badge/Contact%20Me-Email-16213e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0f1a" />
     </a>
-    <a href="https://github.com/shanguyah">
-      <img src="https://komarev.com/ghpvc/?username=shanguyah&style=for-the-badge&color=0f3460&label=PROFILE+VIEWS" />
-    </a>
     <a href="https://valongayo.lovable.app">
-      <img src="https://img.shields.io/badge/Portfolio-valongayo.lovable.app-e94560?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0f1a" />
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-e94560?style=for-the-badge&logo=safari&logoColor=white&labelColor=0d0f1a" />
     </a>
   </p>
 </div>
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanguyah&layout=pie&theme=tokyonight&hide_border=true&title_color=e94560&langs_count=6" width="240" />
-
 ### 💼 Product Ecosystem
+
+<p align="right">
+  <a href="https://github.com/shanguyah">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanguyah&layout=pie&theme=tokyonight&hide_border=true&title_color=e94560&langs_count=6&bg_color=0d0f1a" width="240" />
+  </a>
+</p>
 
 I specialize in building **end-to-end digital experiences** where high-performance code meets data-driven customer retention. By integrating **automated payment systems** with **advanced CRM logic**, I turn one-time shoppers into lifelong brand advocates.
 
@@ -41,6 +42,7 @@ I specialize in building **end-to-end digital experiences** where high-performan
 - ⚙️ **Specialty:** Fullstack Web Development & Enterprise Networking.
 - 🛡️ **Focus:** FinTech security, M-Pesa STK automation, secure database management.
 - 🌐 **Network:** Cisco-grade infrastructure, packet analysis, hardened servers.
+- 🌍 **Portfolio:** [valongayo.lovable.app](https://valongayo.lovable.app)
 
 <br clear="right"/>
 
@@ -84,7 +86,7 @@ I specialize in building **end-to-end digital experiences** where high-performan
 
 <p align="center">
   <a href="https://github.com/shanguyah">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanguyah&theme=tokyonight&hide_border=true&stroke=e94560&ring=00d2ff&fire=e94560&currStreakLabel=a8b2d8&background=0d0f1a&sideLabels=a8b2d8&dates=6272a4" width="100%" />
+    <img src="https://streak-stats.demolab.com/?user=shanguyah&theme=tokyonight&hide_border=true&stroke=e94560&ring=00d2ff&fire=e94560&currStreakLabel=a8b2d8&background=0d0f1a&sideLabels=a8b2d8&dates=6272a4" width="100%" />
   </a>
 </p>
 
@@ -95,6 +97,7 @@ I specialize in building **end-to-end digital experiences** where high-performan
 </p>
 
 ---
+
 
 ### 📌 Featured Projects
 
