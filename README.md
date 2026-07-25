@@ -13,9 +13,6 @@
     <a href="https://github.com/shanguyah?tab=followers">
       <img src="https://img.shields.io/github/followers/shanguyah?label=Followers&style=for-the-badge&color=e94560&logo=github&logoColor=white&labelColor=0d0f1a" />
     </a>
-    <a href="https://github.com/shanguyah?tab=repositories">
-      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/shanguyah&query=public_repos&label=Public%20Repos&style=for-the-badge&color=00d2ff&logo=github&logoColor=white&labelColor=0d0f1a" />
-    </a>
     <a href="mailto:shanguyahvalentine@gmail.com">
       <img src="https://img.shields.io/badge/Contact%20Me-Email-16213e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0f1a" />
     </a>
