@@ -27,13 +27,15 @@
 
 ---
 
-### 💼 Product Ecosystem
+### 📉 Contribution Activity
 
-<p align="right">
+<p align="center">
   <a href="https://github.com/shanguyah">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanguyah&layout=pie&theme=tokyonight&hide_border=true&title_color=e94560&langs_count=6&bg_color=0d0f1a" width="240" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanguyah&theme=tokyo-night&bg_color=0d0f1a&hide_border=true&color=e94560&line=00d2ff&point=e94560&area=true&area_color=e9456022" width="100%" />
   </a>
 </p>
+
+---
 
 I specialize in building **end-to-end digital experiences** where high-performance code meets data-driven customer retention. By integrating **automated payment systems** with **advanced CRM logic**, I turn one-time shoppers into lifelong brand advocates.
 
@@ -115,15 +117,7 @@ I specialize in building **end-to-end digital experiences** where high-performan
 
 ---
 
-### 📉 Contribution Activity
 
-<p align="center">
-  <a href="https://github.com/shanguyah">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanguyah&theme=tokyo-night&bg_color=0d0f1a&hide_border=true&color=e94560&line=00d2ff&point=e94560&area=true&area_color=e9456022" width="100%" />
-  </a>
-</p>
-
----
 
 <div align="center">
 
