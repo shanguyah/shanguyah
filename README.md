@@ -19,13 +19,15 @@
     <a href="mailto:shanguyahvalentine@gmail.com">
       <img src="https://img.shields.io/badge/Contact%20Me-Email-16213e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0f1a" />
     </a>
+    <a href="https://github.com/shanguyah">
+      <img src="https://komarev.com/ghpvc/?username=shanguyah&style=for-the-badge&color=0f3460&label=PROFILE+VIEWS" />
+    </a>
   </p>
 </div>
 
 ---
-<a href="https://github.com/shanguyah">
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanguyah&layout=pie&theme=tokyonight&hide_border=true&title_color=e94560&langs_count=6" width="240" />
-</a>
 
 ### 💼 Product Ecosystem
 
@@ -61,6 +63,31 @@ I specialize in building **end-to-end digital experiences** where high-performan
 <p align="left">
   <a href="https://github.com/shanguyah">
     <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,nginx,bash,wireshark&perline=9" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/shanguyah">
+    <img src="https://github-readme-stats.vercel.app/api?username=shanguyah&show_icons=true&theme=tokyonight&hide_border=true&title_color=e94560&icon_color=00d2ff&text_color=a8b2d8&bg_color=0d0f1a&count_private=true&include_all_commits=true&rank_icon=github" width="49%" />
+  </a>
+  <a href="https://github.com/shanguyah">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanguyah&layout=compact&theme=tokyonight&hide_border=true&title_color=e94560&text_color=a8b2d8&bg_color=0d0f1a&langs_count=8" width="49%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shanguyah">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanguyah&theme=tokyonight&hide_border=true&stroke=e94560&ring=00d2ff&fire=e94560&currStreakLabel=a8b2d8&background=0d0f1a&sideLabels=a8b2d8&dates=6272a4" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shanguyah">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanguyah&theme=tokyonight" width="100%" />
   </a>
 </p>
 
@@ -137,17 +164,5 @@ I specialize in building **end-to-end digital experiences** where high-performan
 <p align="center">
   <a href="https://github.com/shanguyah/shanguyah/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/Design%20License-Proprietary-e94560?style=flat-square&logo=gitbook&logoColor=white&labelColor=0d0f1a" alt="License" />
-  </a>
-</p>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  </a>
-  <br />
-  <a href="https://github.com/shanguyah">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=20&section=footer" width="100%" />
-  </a>
-</div>
-<p align="center">
-  <a href="https://github.com/shanguyah/shanguyah/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/Design%20License-Proprietary-e94560?style=flat-square&logo=gitbook&logoColor=white" alt="License" />
   </a>
 </p>
