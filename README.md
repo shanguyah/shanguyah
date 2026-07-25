@@ -22,6 +22,9 @@
     <a href="https://github.com/shanguyah">
       <img src="https://komarev.com/ghpvc/?username=shanguyah&style=for-the-badge&color=0f3460&label=PROFILE+VIEWS" />
     </a>
+    <a href="https://valongayo.lovable.app">
+      <img src="https://img.shields.io/badge/Portfolio-valongayo.lovable.app-e94560?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0f1a" />
+    </a>
   </p>
 </div>
 
@@ -88,16 +91,6 @@ I specialize in building **end-to-end digital experiences** where high-performan
 <p align="center">
   <a href="https://github.com/shanguyah">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanguyah&theme=tokyonight" width="100%" />
-  </a>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/shanguyah">
-    <img src="https://github-profile-trophy.vercel.app/?username=shanguyah&theme=tokyonight&no-frame=true&no-bg=true&column=7&title=Stars,Commits,Repositories,Issues,PullRequest,Followers,Experience" />
   </a>
 </p>
 
