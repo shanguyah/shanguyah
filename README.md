@@ -27,7 +27,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/shanguyah">
-    <img src="https://streak-stats.demolab.com/?user=shanguyah&theme=tokyonight&hide_border=true&stroke=e94560&ring=00d2ff&fire=e94560&currStreakLabel=a8b2d8&background=0d0f1a&sideLabels=a8b2d8&dates=6272a4" width="100%" />
+    <img sr="https://streak-stats.demolab.com/?user=shanguyah&theme=tokyonight&hide_border=true&stroke=e94560&ring=00d2ff&fire=e94560&currStreakLabel=a8b2d8&background=0d0f1a&sideLabels=a8b2d8&dates=6272a4" width="100%" />
   </a>
 </p>
 
