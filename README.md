@@ -1,4 +1,4 @@
-<div align="center">
+##<div align="center">
   <a href="https://github.com/shanguyah">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Valentine%20Ong'ayo&fontSize=65&fontColor=e94560&fontAlignY=38&desc=Full%20Stack%20%7C%20Network%20Specialist%20%7C%20FinTech&descSize=16&descAlignY=56&descColor=a8b2d8&animation=fadeIn" width="100%" />
   </a>
